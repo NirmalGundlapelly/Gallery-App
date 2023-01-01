@@ -1,0 +1,19 @@
+/* Write your code here. */
+.bgContainer {
+  padding: 20px;
+}
+
+.imagesContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: -45px;
+}
+.activeImage {
+  width: 100%;
+  display: flex;
+  align-self: center;
+}
+.contentContainer {
+  width: 80%;
+}

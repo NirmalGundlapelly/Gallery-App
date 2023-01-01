@@ -1,0 +1,19 @@
+/* Write your code here. */
+.thumbnailItem {
+  list-style: none;
+  margin-right: 10px;
+}
+
+.listImageItems {
+  width: 120px;
+  border-radius: 10px;
+  opacity: 0.5;
+}
+.buttons {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.getImageClear {
+  opacity: 1;
+}
